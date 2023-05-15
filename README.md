@@ -1,3 +1,4 @@
+[![GitHub Streak](https://streak-stats.demolab.com/?user=robertagr)](https://git.io/streak-stats)
 # Hi everybody!
 
 This is Roberta Grasso, a former Marketing Manager who is taking its first steps into software development!
