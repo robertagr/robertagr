@@ -1,4 +1,4 @@
-:sparkles: # Hi everybody :sparkles:
+✨ # Hi everybody :sparkles:
 
 This is Roberta Grasso, a former Marketing Manager who is taking its first steps into software development!
 
