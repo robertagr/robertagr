@@ -1,6 +1,6 @@
 # Ciao everybody! :sparkles:
 
-This is Roberta Grasso, a former Marketing Manager from :it: who is taking its first steps into software development! 💻
+I'm Roberta Grasso, a former Marketing Manager from :it: taking my first steps into software development! 💻
 
 :point_right: [A look into my Linkedin](https://www.linkedin.com/in/roberta-grasso-40b940172/)
 
@@ -8,4 +8,5 @@ This is Roberta Grasso, a former Marketing Manager from :it: who is taking its f
 - Marketing and Social Media
 -  Tech
 -  Content Creation
+-  Learning new things
 
