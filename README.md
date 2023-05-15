@@ -4,7 +4,8 @@ This is Roberta Grasso, a former Marketing Manager who is taking its first steps
 
 A look into my Linkedin (https://www.linkedin.com/in/roberta-grasso-40b940172/)
 
-***Intersted and Hobbies:***
+***Interstes and Hobbies:***
 - [ ] Marketing and Social Media
 - [ ] Tech
-- [ ] Food
+- [ ] Content Creation
+
